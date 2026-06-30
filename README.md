@@ -1,4 +1,4 @@
-# Video-Game-Store-Pro Frontend (.NET 8)
+# Video-Game-Store-Pro-Frontend (.NET 8)
 
 Building a ASP.NET Core (.NET 8) web application frontend for a video game store in VS code.
 
