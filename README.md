@@ -33,19 +33,4 @@ See the Backend repo's README [here](https://github.com/ting11222001/Video-Game-
 
 ## Key Concepts
 
-- REST API Design
-- Data Transfer Objects (DTOs)
-- CRUD endpoints
-- extension methods
-- route groups
-- Handling invalid inputs
-- Entity Framework Core
-- Defining the data model
-- Using the ASP.NET Core configuration system
-- Generating the database and seeding data
-- Understanding dependency injection and service lifetimes
-- Saving new entities to the database
-- Mapping entities to DTOs
-- Querying, updating, and deleting entities from the database
-- Using the asynchronous programming model
-- API integration with the frontend
+- The frontend is built with Blazor (Razor components)
